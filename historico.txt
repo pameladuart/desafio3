@@ -1,0 +1,4 @@
+touch - usei em um unico comdando pra criar na sequencia file1.txt file2.txt file3.txt
+seq - me permitiu inumerar os arquivos na sequencia que foi pedido 
+sort -n - para ordernar numericamente os numeros na pasta zero_ate_2000.txt
+uniq - para remover numeros repetidos
